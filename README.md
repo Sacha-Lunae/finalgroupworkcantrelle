@@ -5,7 +5,9 @@ Team Cantrelle
 Members:
 
 Sacha GUENOUN : Product owner
+
 Auguste DOYET: Scrum Master 
+
 Timothée VANUXEM, Noa CANTRELLE, Adriaan MEULENBELT-ZUMER: devloppement team
 
 This repository is used to manage our final project in the Project Repository (TI3501) module. We'll change features of the project that manages legal absences of employees according to what our client wants.
@@ -31,6 +33,8 @@ Finally, if the V-cycle methodology would be applied, we should give more import
 
 LINKS:
 
-The trello: https://trello.com/b/CIf09ynS/final-project
-The backlog: https://docs.google.com/document/d/1h6bEpmA2l_q5s35hFtpfd3c5-1EldB72ByRWSVHoXUQ/edit?usp=sharing 
+The trello: https://trello.com/invite/b/CIf09ynS/de1d86a3fddb21d6b872b1aacbc25797/final-project-ti3501
+
+The backlog: https://docs.google.com/document/d/1h6bEpmA2l_q5s35hFtpfd3c5-1EldB72ByRWSVHoXUQ/edit?usp=sharing
+
 The GitHub repository: https://github.com/Sacha-Lunae/finalgroupworkcantrelle 
